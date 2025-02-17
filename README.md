@@ -1,16 +1,28 @@
-## Hi there 👋
+## Hello!   
 
-<!--
-**lumck47/lumck47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Kiki**, a software engineer with experience in **backend engineering, blockchain data processing, and real-time systems**. My background in **game engine development and graphics programming** gave me a solid foundation in **C/C++** and **C#**, but through my work, I've developed expertise in **Rust, API development, and performance optimisation**.  
 
-Here are some ideas to get you started:
+### 🛠 Skills  
+#### **Languages**  
+- **C/C++**  
+- **Rust** 🦀  
+- **C#**  
+- **SQL**  
+- **TypeScript** (Basic)
+- **Python** (Basic)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### **Technologies & Tools**  
+- **Blockchain & Web3** – Solana, On-chain Data Indexing  
+- **Databases** – PostgreSQL, MongoDB
+- **Backend Development** – REST APIs, gRPC
+- **Game Development** – Game Engines, Graphics Programming  
+
+### Experience  
+Currently, I'm a **Software Engineer Intern at SolanaFM (acq. by Jupiter)**, where I work on backend systems to process blockchain data. My work involves:  
+- Developing and maintaining **indexers**.  
+- Contributing to **APIs** for portfolio tracking.
+
+### 🔍 What I Want to Explore  
+- **FinTech & Web3** – Exploring **digital assets, decentralised finance (DeFi), and smart contracts**.  
+- **Scalability & Distributed Systems** – Building **low-latency infrastructure and improving system performance**.  
+- **Algorithmic Trading** – Understanding execution strategies and high-frequency trading.
